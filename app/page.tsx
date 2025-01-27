@@ -1,8 +1,8 @@
 'use client';
 
 import Button from "./ui/buttons";
-import { useState } from "react";
-import { useRouter } from "next/navigation";
+// import { useState } from "react";
+// import { useRouter } from "next/navigation";
 
 export default function Home() {
   return (
